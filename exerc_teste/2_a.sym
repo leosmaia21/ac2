@@ -1,0 +1,15 @@
+GAS LISTING 2_a.s 			page 1
+
+
+DEFINED SYMBOLS
+               2_a.s:1      *ABS*:000000000000bf88 SFR_BASE_HI
+               2_a.s:2      *ABS*:0000000000006100 TRISE
+               2_a.s:3      *ABS*:0000000000006110 PORTE
+               2_a.s:4      *ABS*:0000000000006120 LATE
+               2_a.s:5      *ABS*:0000000000006040 TRISB
+               2_a.s:6      *ABS*:0000000000006050 PORTB
+               2_a.s:7      *ABS*:0000000000006060 LATB
+               2_a.s:13     .text:0000000000000000 main
+               2_a.s:23     .text:000000000000001c loop
+
+NO UNDEFINED SYMBOLS
